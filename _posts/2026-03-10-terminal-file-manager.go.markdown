@@ -8,7 +8,6 @@ categories: jekyll update
 ---
 
 ## ✅ 試做一個【終端機檔案管理器】 (Terminal File Manager)
-![Terminal-file-manager-go](/image/github.io/terminal-file-manager-go.png)
 ![Terminal-file-manager-go](/image/github.io/Terminal_File_Manager.gif)
 
 ### 引言：在終端機中享受「指尖起舞」的檔案導航
